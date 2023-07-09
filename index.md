@@ -17,3 +17,4 @@ $ nmp run start:dev
 - [x] Create directory
 - [x] Initialize nestjs command in cli
 - [x] Run the project successfully using cli
+- [ ] Use vs code to access files and make changes in code
