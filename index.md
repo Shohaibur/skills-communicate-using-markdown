@@ -4,12 +4,16 @@
 
 ![Image of nestjs icon](https://hackernoon.com/hn-images/1*8_uUnP2g8H8Zj3N_KktFtw.png)
 
-##### creating a nestjs project command:
+##### creating a nestjs project command using terminal:
 ```
-open terminal -> $ npm nest new project_name
+$ npm nest new project_name
 ```
 ##### start application in developer mode:
 ```
 $ cd project_name
 $ nmp run start:dev
 ```
+### What we've done:
+- [x] Create directory
+- [x] Initialize nestjs command in cli
+- [x] Run the project successfully using cli
